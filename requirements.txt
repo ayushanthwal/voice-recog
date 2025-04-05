@@ -1,0 +1,4 @@
+pygame
+speechrecognition
+spacy
+scikit-learn
